@@ -41,7 +41,7 @@ This repository contains a FastAPI-based API that handles CRUD operations for ma
 
 4. Run the FastAPI server:
    ```bash
-   uvicorn main:app --reload
+   uvicorn index:app --reload
    ```
 
 5. Access the API documentation through the auto-generated Swagger UI at:
