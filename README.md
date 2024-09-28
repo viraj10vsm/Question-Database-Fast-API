@@ -2,6 +2,8 @@
 ## Create Virtual Env--> download requirements--> connect MongoDB
 ## Start Server >$ uvicorn index:app --reload
 
+ADD CSV Questions file to the UPLOAD Questions ENDPOINT as described
+
 # Interview Question API
 
 This repository contains a FastAPI-based API that handles CRUD operations for managing interview questions. It also supports uploading a CSV file to insert multiple questions into the database in bulk.
